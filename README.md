@@ -1,5 +1,7 @@
 # Introduction to LabVIEW FPGA for RF, Radar, and Electronic Warfare Applications
-## Chapter 2 How to learn LabVIEW FPGA References
+## Chapter 2 How to learn LabVIEW FPGA
+
+*References*
 
 [1] Koch, D., FPGAs for Software Programmers, New York: Springer Science+Business Media, 2015.  
 [2] Kehtarnavaz, N., and S. Mahotra, Digital Signal Processing Laboratory: LabVIEW-Based FPGA Implementation, Boca Raton, FL: Brown Walker Press, 2010.  
